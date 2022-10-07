@@ -1,2 +1,2 @@
-# Retail-Analysis-
+# Retail-Analysis
 Power BI Project
